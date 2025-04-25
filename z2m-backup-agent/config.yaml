@@ -16,7 +16,7 @@ schema:
   mqtt_port: int?
   mqtt_username: str
   mqtt_password: str
-  backup_dir: str
+  backup_dir: str?
   mqtt_hass_discovery_topic_prefix: str?
   mqtt_z2m_topic_prefix: str?
   mqtt_device_prefix: str?
