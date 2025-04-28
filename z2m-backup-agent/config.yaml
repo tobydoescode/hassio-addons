@@ -1,6 +1,6 @@
 ---
 name: z2m Backup Agent
-version: 0.0.5
+version: 0.0.6
 slug: z2m-backup-agent
 description: A daemon that periodically backups up Zigbee2MQTT (z2m)
 image: evoio/z2m-backup-agent
